@@ -1,0 +1,9 @@
+dataset,extracted_row_count,excluded_compound_rows,source_row_count,output_row_count,mapped_one_to_one,unmatched,ambiguous_one_to_many,non_one_to_one,one_to_one_fraction,large_unresolved_fraction
+Goelzer_2015,5169,0,5169,5169,5169,0,0,0,1,FALSE
+li_2014_all,4095,8,4087,4087,4057,25,5,30,0.9926596525568877,FALSE
+peebo_2015,1526,0,1526,1526,1526,0,0,0,1,FALSE
+schmidt_2016,2058,0,2058,2058,2049,9,0,9,0.9956268221574344,FALSE
+valgepea_2013_prot,4322,0,4322,4322,4322,0,0,0,1,FALSE
+zhu_B_subtilis,8520,0,8520,8520,8392,128,0,128,0.9849765258215962,FALSE
+zhu_E_coli,8876,0,8876,8876,8874,2,0,2,0.9997746732762506,FALSE
+zhu_V_natriegens,8986,0,8986,8986,8986,0,0,0,1,FALSE

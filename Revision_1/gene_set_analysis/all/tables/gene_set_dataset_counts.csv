@@ -1,0 +1,41 @@
+dataset,species,gene_set,mapping_confidence_version,row_count,unique_gene_count
+schmidt_2016,Escherichia coli,All eligible genes,main,2043,2043
+peebo_2015,Escherichia coli,All eligible genes,main,1096,1096
+li_2014_all,Escherichia coli,All eligible genes,main,3742,3742
+valgepea_2013_prot,Escherichia coli,All eligible genes,main,1203,1203
+Goelzer_2015,Bacillus subtilis,All eligible genes,main,1002,1002
+zhu_B_subtilis,Bacillus subtilis,All eligible genes,main,1777,1777
+zhu_E_coli,Escherichia coli,All eligible genes,main,1710,1710
+zhu_V_natriegens,Vibrio natriegens,All eligible genes,main,1443,1443
+schmidt_2016,Escherichia coli,Other genes,main,1985,1985
+peebo_2015,Escherichia coli,Other genes,main,1040,1040
+li_2014_all,Escherichia coli,Other genes,main,3682,3682
+valgepea_2013_prot,Escherichia coli,Other genes,main,1147,1147
+Goelzer_2015,Bacillus subtilis,Other genes,main,949,949
+zhu_B_subtilis,Bacillus subtilis,Other genes,main,1720,1720
+zhu_E_coli,Escherichia coli,Other genes,main,1654,1654
+zhu_V_natriegens,Vibrio natriegens,Other genes,main,1387,1387
+schmidt_2016,Escherichia coli,PanKB accessory (including rare),main,1350,1350
+peebo_2015,Escherichia coli,PanKB accessory (including rare),main,669,669
+li_2014_all,Escherichia coli,PanKB accessory (including rare),main,2707,2707
+valgepea_2013_prot,Escherichia coli,PanKB accessory (including rare),main,757,757
+Goelzer_2015,Bacillus subtilis,PanKB accessory (including rare),main,226,226
+zhu_B_subtilis,Bacillus subtilis,PanKB accessory (including rare),main,490,490
+zhu_E_coli,Escherichia coli,PanKB accessory (including rare),main,1108,1108
+zhu_V_natriegens,Vibrio natriegens,PanKB accessory (including rare),main,187,187
+schmidt_2016,Escherichia coli,PanKB core,main,690,690
+peebo_2015,Escherichia coli,PanKB core,main,424,424
+li_2014_all,Escherichia coli,PanKB core,main,982,982
+valgepea_2013_prot,Escherichia coli,PanKB core,main,444,444
+Goelzer_2015,Bacillus subtilis,PanKB core,main,773,773
+zhu_B_subtilis,Bacillus subtilis,PanKB core,main,1281,1281
+zhu_E_coli,Escherichia coli,PanKB core,main,596,596
+zhu_V_natriegens,Vibrio natriegens,PanKB core,main,1253,1253
+schmidt_2016,Escherichia coli,RNA polymerase + ribosomal protein,main,58,58
+peebo_2015,Escherichia coli,RNA polymerase + ribosomal protein,main,56,56
+li_2014_all,Escherichia coli,RNA polymerase + ribosomal protein,main,60,60
+valgepea_2013_prot,Escherichia coli,RNA polymerase + ribosomal protein,main,56,56
+Goelzer_2015,Bacillus subtilis,RNA polymerase + ribosomal protein,main,53,53
+zhu_B_subtilis,Bacillus subtilis,RNA polymerase + ribosomal protein,main,57,57
+zhu_E_coli,Escherichia coli,RNA polymerase + ribosomal protein,main,56,56
+zhu_V_natriegens,Vibrio natriegens,RNA polymerase + ribosomal protein,main,56,56

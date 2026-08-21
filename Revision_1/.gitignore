@@ -1,0 +1,26 @@
+# Local R state and libraries
+R_libs/
+.Rhistory
+*.log
+*.pid
+
+# Third-party raw inputs (retain the extraction manifest)
+data/raw_data/proteomics/*.xlsx
+!data/raw_data/proteomics/manifest.csv
+data/raw_data/reference_gff/
+data/raw_data/promoter/
+data/raw_data/PanKB/
+data/raw_data/molecular_weight/
+
+# Regenerable intermediate data
+data/raw_extracted/
+data/raw_mapped/
+data/molecular_weight/
+data/normalized_proteomics/
+data/position_mapped_proteomics/
+data/analysis_ready_proteomics/
+data/promoter/
+data/cross_strain_gene_mapping.csv
+
+# Runtime logs
+gene_set_analysis/logs/

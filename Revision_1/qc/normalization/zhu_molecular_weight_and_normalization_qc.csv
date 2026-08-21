@@ -1,0 +1,4 @@
+dataset,source_rows_after_batch_merge,molecular_weight_mapped,molecular_weight_missing,molecular_weight_coverage,expressed_rows_retained,mapped_one_to_one_retained,unresolved_rows_retained,abundance_columns
+zhu_E_coli,4438,4436,2,0.9995493465525012,1808,1808,0,11
+zhu_B_subtilis,4260,4260,0,1,2017,2017,0,10
+zhu_V_natriegens,4493,4493,0,1,2000,2000,0,11

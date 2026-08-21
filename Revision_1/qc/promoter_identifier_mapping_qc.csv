@@ -1,0 +1,3 @@
+medium,input_promoters,expanded_output_rows,mapped_promoters,unmapped_promoters,promoter_mapping_fraction,intragenic_rows,intergenic_rows,unmapped_rows,unique_reference_identifiers
+LB,3477,3482,3335,142,0.9591601955708945,1829,1511,142,2430
+M9,3321,3326,3156,165,0.950316169828365,1496,1665,165,2328

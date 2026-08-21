@@ -1,0 +1,9 @@
+dataset,normalized_rows,mapped_one_to_one,unmatched,ambiguous_one_to_many,duplicated_reference_identifier_rows,missing_reference_position_rows,analysis_eligible,analysis_eligible_fraction,abundance_columns,abundance_unchanged
+schmidt_2016,2058,2049,9,0,6,0,2043,0.9927113702623906,20,TRUE
+peebo_2015,1526,1526,0,0,0,0,1526,1,23,TRUE
+valgepea_2013_prot,1344,1344,0,0,0,0,1344,1,5,TRUE
+li_2014_all,3926,3899,22,5,4,0,3895,0.9921039225674987,3,TRUE
+Goelzer_2015,1574,1574,0,0,0,0,1574,1,5,TRUE
+zhu_E_coli,1808,1808,0,0,8,0,1800,0.995575221238938,11,TRUE
+zhu_B_subtilis,2017,2017,0,0,0,3,2014,0.9985126425384234,10,TRUE
+zhu_V_natriegens,2000,2000,0,0,0,423,1577,0.7885,11,TRUE

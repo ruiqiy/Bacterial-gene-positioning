@@ -1,0 +1,17 @@
+﻿dataset,source_file,sheet,range,header_row,id_column,gene_column
+Goelzer,Goelzer_raw.xlsx,PYR,A3:O800,3,% BSU Number ,% Gene_Name 
+Goelzer,Goelzer_raw.xlsx,S,A3:O1130,3,% BSU Number ,% Gene_Name 
+Goelzer,Goelzer_raw.xlsx,TS,A3:O1161,3,% BSU Number ,% Gene_Name 
+Goelzer,Goelzer_raw.xlsx,CH,A3:O987,3,% BSU Number ,% Gene_Name 
+Goelzer,Goelzer_raw.xlsx,CHG,A3:O1106,3,% BSU Number ,% Gene_Name 
+Li,Li_raw.xlsx,TableS1,A1:D4096,1,,Gene
+Peebo,Peebo_raw.xlsx,Sheet1,"A5:B1531, G5:AZ1531",5,B number identifier,Gene name
+Schmidt,Schmidt_raw.xlsx,Table S5,"A3:A2061, C3:C2061, G3:AB2061",3,Uniprot Accession,Gene
+Schmidt_metadata,Schmidt_raw.xlsx,Table S23,A3:C29,3,Growth condition,
+Valgepea,Valgepea_raw.xlsx,Table S2,"A10:B4334, D10:H4334, S10:W4334","10, 11, 12",KEGG ID,Gene name
+Zhu_Ecoli,Zhu_raw.xlsx,Ecoli batch F,A1:I4439,1,"gene locus, protein ID",gene name
+Zhu_Ecoli,Zhu_raw.xlsx,Ecoli batch K,A1:I4439,1,"gene locus, protein ID",gene name
+Zhu_Bsub,Zhu_raw.xlsx,Bsub batch F,A1:N4261,1,"gene locus, protein ID",gene name
+Zhu_Bsub,Zhu_raw.xlsx,Bsub batch G,A1:I4261,1,"gene locus, protein ID",gene name
+Zhu_Vnat,Zhu_raw.xlsx,Vnat batch C,A1:I4494,1,"gene locus, protein ID",gene name
+Zhu_Vnat,Zhu_raw.xlsx,Vnat batch L,A1:I4494,1,"gene locus, protein ID",gene name

@@ -1,0 +1,6 @@
+gene_set,required_figures,existing_figures,nonempty_figures,all_required_figures_valid
+accessory,6,6,6,TRUE
+all,6,6,6,TRUE
+core,6,6,6,TRUE
+other,6,6,6,TRUE
+transcription_translation,6,6,6,TRUE

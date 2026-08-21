@@ -1,0 +1,17 @@
+dataset,source_file,sheet,selected_range,output_file,extracted_rows,extracted_columns,missing_identifier_rows,duplicated_nonmissing_identifiers
+Schmidt,Schmidt_raw.xlsx,Table S5,"A3:A2061, C3:C2061, G3:AB2061",schmidt_data_copy.csv,2058,22,0,1
+Schmidt_metadata,Schmidt_raw.xlsx,Table S23,A3:C29,schmidt_meta.csv,20,2,0,0
+Peebo,Peebo_raw.xlsx,Sheet1,"A5:B1531, G5:AZ1531",peebo_copy.csv,1526,25,0,0
+Valgepea,Valgepea_raw.xlsx,Table S2,"A10:B4334, D10:H4334, S10:W4334",Valgepea_copy.csv,4322,12,0,0
+Li,Li_raw.xlsx,TableS1,A1:D4096,Li_copy.csv,4095,4,0,0
+Goelzer,Goelzer_raw.xlsx,PYR,A3:O800,Goelzer_PYR.csv,797,15,0,0
+Goelzer,Goelzer_raw.xlsx,S,A3:O1130,Goelzer_S.csv,1127,15,0,0
+Goelzer,Goelzer_raw.xlsx,TS,A3:O1161,Goelzer_TS.csv,1158,15,0,0
+Goelzer,Goelzer_raw.xlsx,CH,A3:O987,Goelzer_CH.csv,984,15,0,0
+Goelzer,Goelzer_raw.xlsx,CHG,A3:O1106,Goelzer_CHG.csv,1103,15,0,0
+Zhu_Ecoli,Zhu_raw.xlsx,Ecoli batch F,A1:I4439,Ecoli_batch_F.csv,4438,9,39,10
+Zhu_Ecoli,Zhu_raw.xlsx,Ecoli batch K,A1:I4439,Ecoli_batch_K.csv,4438,9,39,10
+Zhu_Bsub,Zhu_raw.xlsx,Bsub batch F,A1:N4261,Bsub_batch_F.csv,4260,14,71,0
+Zhu_Bsub,Zhu_raw.xlsx,Bsub batch G,A1:I4261,Bsub_batch_G.csv,4260,9,71,0
+Zhu_Vnat,Zhu_raw.xlsx,Vnat batch C,A1:I4494,Vnat_batch_C.csv,4493,9,0,0
+Zhu_Vnat,Zhu_raw.xlsx,Vnat batch L,A1:I4494,Vnat_batch_L.csv,4493,9,0,0

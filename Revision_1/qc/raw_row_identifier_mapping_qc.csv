@@ -1,0 +1,16 @@
+dataset,source_file,extracted_rows,excluded_compound_rows,rows_submitted_to_mapping,output_rows,mapped_one_to_one,unmatched,ambiguous_one_to_many,non_one_to_one
+schmidt_2016,schmidt_data_copy.csv,2058,0,2058,2058,2049,9,0,9
+peebo_2015,peebo_copy.csv,1526,0,1526,1526,1526,0,0,0
+valgepea_2013_prot,Valgepea_copy.csv,4322,0,4322,4322,4322,0,0,0
+li_2014_all,Li_copy.csv,4095,8,4087,4087,4057,25,5,30
+Goelzer_2015,Goelzer_PYR.csv,797,0,797,797,797,0,0,0
+Goelzer_2015,Goelzer_S.csv,1127,0,1127,1127,1127,0,0,0
+Goelzer_2015,Goelzer_TS.csv,1158,0,1158,1158,1158,0,0,0
+Goelzer_2015,Goelzer_CH.csv,984,0,984,984,984,0,0,0
+Goelzer_2015,Goelzer_CHG.csv,1103,0,1103,1103,1103,0,0,0
+zhu_E_coli,Ecoli_batch_F.csv,4438,0,4438,4438,4437,1,0,1
+zhu_E_coli,Ecoli_batch_K.csv,4438,0,4438,4438,4437,1,0,1
+zhu_B_subtilis,Bsub_batch_F.csv,4260,0,4260,4260,4196,64,0,64
+zhu_B_subtilis,Bsub_batch_G.csv,4260,0,4260,4260,4196,64,0,64
+zhu_V_natriegens,Vnat_batch_C.csv,4493,0,4493,4493,4493,0,0,0
+zhu_V_natriegens,Vnat_batch_L.csv,4493,0,4493,4493,4493,0,0,0
