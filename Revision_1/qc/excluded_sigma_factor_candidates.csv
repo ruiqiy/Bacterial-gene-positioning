@@ -1,0 +1,33 @@
+species,strain,reference_genome_accession,reference_identifier,gene_name,product_annotation,exclusion_reason
+Escherichia coli,K-12 MG1655,GCF_000005845.2,b1922,fliA,RNA polymerase sigma factor FliA,sigma factor is not a structural RNA-polymerase subunit
+Escherichia coli,K-12 MG1655,GCF_000005845.2,b2573,rpoE,RNA polymerase sigma factor RpoE,sigma factor is not a structural RNA-polymerase subunit
+Escherichia coli,K-12 MG1655,GCF_000005845.2,b2741,rpoS,RNA polymerase sigma factor RpoS,sigma factor is not a structural RNA-polymerase subunit
+Escherichia coli,K-12 MG1655,GCF_000005845.2,b3067,rpoD,RNA polymerase sigma factor RpoD,sigma factor is not a structural RNA-polymerase subunit
+Escherichia coli,K-12 MG1655,GCF_000005845.2,b3202,rpoN,RNA polymerase sigma factor RpoN,sigma factor is not a structural RNA-polymerase subunit
+Escherichia coli,K-12 MG1655,GCF_000005845.2,b3461,rpoH,RNA polymerase sigma factor RpoH,sigma factor is not a structural RNA-polymerase subunit
+Escherichia coli,K-12 MG1655,GCF_000005845.2,b4293,fecI,RNA polymerase sigma factor FecI,sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU00980,sigH,RNA polymerase sigma-30 factor (sigma(H)),sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU01730,sigW,RNA polymerase ECF(extracytoplasmic function)-type sigma factor W,sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU04730,sigB,RNA polymerase sigma-37 factor (sigma(B)),sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU09520,sigM,RNA polymerase ECF (extracytoplasmic function)-type sigma factor (sigma(M)),sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU12560,xpf,phage PBSX; putative RNA polymerase PBSX sigma factor-like,sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU13450,sigI,RNA polymerase sigma factor (heat stress responsive),sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU14730,sigP,RNA polymerase ECF-type sigma factor,sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU15320,sigE,RNA polymerase sporulation-specific sigma-29 factor (sigma-E),sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU15330,sigG,RNA polymerase sporulation-specific sigma factor (sigma-G),sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU16470,sigD,RNA polymerase sigma-28 factor (sigma-D),sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU23100,sigX,RNA polymerase ECF(extracytoplasmic function)-type sigma factor sigma(X),sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU23450,sigF,RNA polymerase sporulation-specific sigma factor (sigma-F),sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU25200,sigA,RNA polymerase major sigma-43 factor (sigma-A),sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU26840,sigZ,RNA polymerase ECF(extracytoplasmic function)-type sigma factor (sigma-Z),sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU27120,sigV,RNA polymerase ECF(extracytoplasmic function)-type sigma factor (sigma(V)),sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU34200,sigL,RNA polymerase sigma-54 factor (sigma-L),sigma factor is not a structural RNA-polymerase subunit
+Bacillus subtilis,subsp. subtilis 168,GCF_000009045.1,BSU38700,sigY,RNA polymerase ECF (extracytoplasmic function)-type sigma factor (sigma-Y),sigma factor is not a structural RNA-polymerase subunit
+Vibrio natriegens,ATCC 14048 / NBRC 15636 / DSM 759,GCF_001456255.1,PN96_RS00495,NA,RNA polymerase factor sigma-54,sigma factor is not a structural RNA-polymerase subunit
+Vibrio natriegens,ATCC 14048 / NBRC 15636 / DSM 759,GCF_001456255.1,PN96_RS01020,rpoE,RNA polymerase sigma factor RpoE,sigma factor is not a structural RNA-polymerase subunit
+Vibrio natriegens,ATCC 14048 / NBRC 15636 / DSM 759,GCF_001456255.1,PN96_RS01145,rpoS,RNA polymerase sigma factor RpoS,sigma factor is not a structural RNA-polymerase subunit
+Vibrio natriegens,ATCC 14048 / NBRC 15636 / DSM 759,GCF_001456255.1,PN96_RS02110,NA,RNA polymerase sigma factor,sigma factor is not a structural RNA-polymerase subunit
+Vibrio natriegens,ATCC 14048 / NBRC 15636 / DSM 759,GCF_001456255.1,PN96_RS02725,NA,RNA polymerase sigma factor FliA,sigma factor is not a structural RNA-polymerase subunit
+Vibrio natriegens,ATCC 14048 / NBRC 15636 / DSM 759,GCF_001456255.1,PN96_RS02835,NA,sigma-70 family RNA polymerase sigma factor,sigma factor is not a structural RNA-polymerase subunit
+Vibrio natriegens,ATCC 14048 / NBRC 15636 / DSM 759,GCF_001456255.1,PN96_RS11620,rpoD,RNA polymerase sigma factor RpoD,sigma factor is not a structural RNA-polymerase subunit
+Vibrio natriegens,ATCC 14048 / NBRC 15636 / DSM 759,GCF_001456255.1,PN96_RS14200,rpoH,RNA polymerase sigma factor RpoH,sigma factor is not a structural RNA-polymerase subunit

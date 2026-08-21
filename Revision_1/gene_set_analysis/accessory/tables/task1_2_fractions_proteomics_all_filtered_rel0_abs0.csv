@@ -1,0 +1,17 @@
+assay,cutoff,gene_filter,fc_mode,dataset,group,m_pairs,frac_raw,frac_bonf
+proteomics,rel0_abs0,all,filtered,Goelzer_2015,oriC,10,0.1,0
+proteomics,rel0_abs0,all,filtered,Goelzer_2015,ter,10,0.6,0.4
+proteomics,rel0_abs0,all,filtered,li_2014_all,oriC,3,0.6666666666666666,0.6666666666666666
+proteomics,rel0_abs0,all,filtered,li_2014_all,ter,3,0.6666666666666666,0.6666666666666666
+proteomics,rel0_abs0,all,filtered,peebo_2015,oriC,249,0.3815261044176707,0.08032128514056225
+proteomics,rel0_abs0,all,filtered,peebo_2015,ter,249,0.6144578313253012,0.21285140562248997
+proteomics,rel0_abs0,all,filtered,schmidt_2016,oriC,188,0.48936170212765956,0.17553191489361702
+proteomics,rel0_abs0,all,filtered,schmidt_2016,ter,188,0.4946808510638298,0.21808510638297873
+proteomics,rel0_abs0,all,filtered,valgepea_2013_prot,oriC,10,0.6,0.6
+proteomics,rel0_abs0,all,filtered,valgepea_2013_prot,ter,10,0.6,0.5
+proteomics,rel0_abs0,all,filtered,zhu_B_subtilis,oriC,45,0.7111111111111111,0.4222222222222222
+proteomics,rel0_abs0,all,filtered,zhu_B_subtilis,ter,45,0.6222222222222222,0.35555555555555557
+proteomics,rel0_abs0,all,filtered,zhu_E_coli,oriC,55,0.4909090909090909,0.2727272727272727
+proteomics,rel0_abs0,all,filtered,zhu_E_coli,ter,55,0.6727272727272727,0.45454545454545453
+proteomics,rel0_abs0,all,filtered,zhu_V_natriegens,oriC,55,0.2909090909090909,0.14545454545454545
+proteomics,rel0_abs0,all,filtered,zhu_V_natriegens,ter,55,0.23636363636363636,0.05454545454545454
